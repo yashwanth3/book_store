@@ -12,6 +12,3 @@ INSERT INTO `bookinventory` (`bookID`, `title`, `image`, `author`, `price`, `qua
 
 
 
-
-INSERT INTO `bookinventoryorder` (`orderID`, `firstname`, `lastname`, `email`, `paymentmode`, `bookID`) VALUES
-(42, 'Akhil', 'Venigalla', 'akhilv@gmail.com', 'card', 8);
